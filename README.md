@@ -1,4 +1,4 @@
-# beakjoooons
+# open_source
 Hello~
 오픈소스수업듣는 힉생들을 위한 공간입니다.
 위에 해당하지 않는 사람들은 나가주세요
